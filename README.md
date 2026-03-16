@@ -1,2 +1,5 @@
 # skip-list-impl-py
-Zero-dependency Python implementation.
+
+Skip list — probabilistic sorted data structure
+
+Zero-dependency Python. Stdlib only.
